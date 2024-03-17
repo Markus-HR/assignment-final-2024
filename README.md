@@ -24,6 +24,7 @@ The Project is a NextJS application with a Postgres database to keep track of th
 - Should the game be playable without the players names ?
 - Create a new GitHub repository with one eslint rule that forbids moment. Release that package, using GitHub Actions, and use that in this project.
 - There should be lint errors/warnings after applying that rule, fix it.
+- Make the code and relevant files pretty.
 - There are no unit tests. Add them.
 - There are no ui integration tests. Add them.
 - There are no e2e tests. Add them.
